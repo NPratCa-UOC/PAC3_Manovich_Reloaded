@@ -54,7 +54,7 @@ L'entrenament o entreteniment es pot personalitzar segons el temps disponible o 
 
 Té integrat un sistema de càlcul de calories, el MET (indica la intensitat d'una activitat), que permet determinar les calories cremades durant els exercicis, enregistra el seguiment de l'efecte dels entrenaments sobre la taula, i cada dia que si entra i es fa exercici es marca amb un segell en un calendari. Abans de realitzar una activitat es mostra, sota la imatge del joc, un valor de MET que correspon a les calories que es cremen en cada una. També s'han d'establir uns objectius de pèrdua de calories durant un període de temps estimat, quan aquest arribi es valorarà si l'has assolit i es demanarà que se'n proposi un de nou.
 
-<img src="/hula hoop.jpg" width="445px"> <img src="calendari.jpg" width="445px">
+<img src="/hula hoop.jpg" width="400px"> <img src="calendari.jpg" width="400px">
 
 També pot ser multijugador fins a un màxim de vuit jugadors per competir en certs jocs. Referent al Wii Fit es va millorar i facilitat el canvi entre els diferents perfils dels jugadors.
 
@@ -62,7 +62,7 @@ Com s'ha comentat anteriorment, cada exercici o activitat indica la seva duraci�
 
 Un apunt que crec que és important, és que quan s'ha iniciat el programa i triat el jugador et fa fer un test ràpid on has de tancat els ulls i no moure's fins que t'avisa. Amb aquest controla l'estabilitat, el centre de gravetat del cos (que amb els ulls tancats es mou més) i et pesa. I segons el teu IMC (índex de massa corporal) calculat amb el pes i l'estatura et comenta si estàs en perill de sobrepès o no.
 
-<img src="imc.jpg" width="445px">
+<img src="imc.jpg" width="400px">
 
 La frase completa i que hem exposat una part anteriorment, dita per **Manovich** en el seu llibre ***El software toma el mando*** (2013), *el resultado de la hibridación no es tan solo la suma mecánica de las partes existentes previamente, sino una nueva «especie»: un nuevo tipo de estética visual que no existía antes*, li encaixa molt bé. El Wii Fit Plus és la hibridació d'un videojoc (que se sol jugar a casa) amb l'entrenament físic (que se sol fer en un gimnàs o a l'aire lliure), un controlador de pes (la bàscula), animacions en 3D, tipografia i molts més.
 
