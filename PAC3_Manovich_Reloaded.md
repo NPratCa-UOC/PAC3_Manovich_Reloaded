@@ -14,7 +14,7 @@ En el meu cas, els dos exemples seleccionats, un és més actual que l'altre. El
 
 :eight_spoked_asterisk: El segon cas és el **Wii Fit Plus**, un videojoc de la videoconsola Wii amb el que feies esport i corregies la postura amb la taula Wii Balance Board.
 
-## ![logo spotify](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Spotify_logo_with_text.svg/559px-Spotify_logo_with_text.svg.png =125x )    Re-descobrint la hibridació: Cas 1 - Spotify
+## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Spotify_logo_with_text.svg/559px-Spotify_logo_with_text.svg.png" width="125px">  Re-descobrint la hibridació: Cas 1 - Spotify
 
 Spotify, la que podria dir, una de les aplicacions i programari multidispositiu per escoltar música de manera online i offline (versió de pagament) en qualsevol lloc per excel·lència. Actualment, és un servei digital de música que ofereix molts més serveis a part d'escoltar música, com pòdcasts i vídeos musicals.
 
