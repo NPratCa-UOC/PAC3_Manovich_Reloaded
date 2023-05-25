@@ -65,13 +65,7 @@ Un apunt que crec que és important, és que quan s'ha iniciat el programa i tri
 
 La frase completa i que hem exposat una part anteriorment, dita per **Manovich** en el seu llibre ***El software toma el mando*** (2013), *el resultado de la hibridación no es tan solo la suma mecánica de las partes existentes previamente, sino una nueva «especie»: un nuevo tipo de estética visual que no existía antes*, li encaixa molt bé. El Wii Fit Plus és la hibridació d'un videojoc (que se sol jugar a casa) amb l'entrenament físic (que se sol fer en un gimnàs o a l'aire lliure), un controlador de pes (la bàscula), animacions en 3D, tipografia i molts més.
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;"> <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden" frameborder="0" type="text/html" src="https://www.dailymotion.com/embed/video/x74dx73" width="100%" height="100%" allowfullscreen title="Dailymotion Video Player" > </iframe> </div>
-
-<embed src="https://www.dailymotion.com/embed/video/x74dx73" width="100%" height="500px" allowfullscreen title="Dailymotion Video Player"> </embed>
-
-![Wii Fit Plus-Tráiler E3-DailyMotion](https://www.dailymotion.com/video/x74dx73)
-
-[![Wii Fit Plus - Tráiler E3](https://i.3djuegos.com/juegos/4327/wii_fit_plus/fotos/set/wii_fit_plus-4331443.webp)](https://www.dailymotion.com/video/x74dx73)
+[![Wii Fit Plus - Tráiler E3](https://i.ibb.co/z2xxknh/imatge-video.png)](https://www.dailymotion.com/video/x74dx73)
 
 ---
 Com diu **Manovich**, de manera molt encerta, en el seu llibre ***El software toma el mando*** (2013), *En lugar de numerosos materiales e instrumentos por separado,
