@@ -1,6 +1,7 @@
 ﻿# PAC3: Visionant el futur amb les ulleres de Manovich: redescubrint la hibridació
 
 :grinning: Núria Prat Castells 
+
 :date: Maig 2023
 
 
