@@ -14,7 +14,7 @@ En el meu cas, els dos exemples seleccionats, un és més actual que l'altre. El
 
 :eight_spoked_asterisk: El segon cas és el **Wii Fit Plus**, un videojoc de la videoconsola Wii amb el que feies esport i corregies la postura amb la taula Wii Balance Board.
 
-## ![logo spotify](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Spotify_logo_with_text.svg/559px-Spotify_logo_with_text.svg.png width="50" height="50") Re-descobrint la hibridació: Cas 1 - Spotify
+## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Spotify_logo_with_text.svg/559px-Spotify_logo_with_text.svg.png" width="125px"> Re-descobrint la hibridació: Cas 1 - Spotify
 
 Spotify, la que podria dir, una de les aplicacions i programari multidispositiu per escoltar música de manera online i offline (versió de pagament) en qualsevol lloc per excel·lència. Actualment, és un servei digital de música que ofereix molts més serveis a part d'escoltar música, com pòdcasts i vídeos musicals.
 
@@ -28,7 +28,7 @@ Spotify és, principalment, una hibridació de les dues passions del seu creador
 
 La plataforma ha aconseguit que el fet de buscar una cançó deixés de ser una odissea amb la classificació d'aquestes per estils, àlbums, artistes i llistes amb cançons recomanades segons els gustos personals de l'usuari que apareixen a la pàgina inicial del programari. 
 
-<img src="https://i.ibb.co/SsW8BN5/spotify-inicii.png" alt="spotify-inici">
+<img src="https://i.ibb.co/wKK3nDy/spotify-inicii.png" alt="spotify-inici">
 
 És una gran què tenir la possibilitat de crear les nostres llistes personalitzades i poder descarregar-nos les cançons, àlbums o llistes preferides per tal de poder-les escoltar encara que estiguem sense connexió a internet (versió de pagament).
 
@@ -36,17 +36,22 @@ Gràcies als algoritmes d'Spotify i a les dades que recapta sobre els nostres gu
 
 Un punt a comentar i que trobo molt engeniós i molt satisfactori és el fet que la barra de reproducció canvia de disseny amb un tipus de música molt concreta, un exemple és la banda sonora d'Star Wars on aquesta es converteix en una espasa làser.
 
-<img src="https://i.ibb.co/n0QYSyp/spoti-star-warss.png" alt="spoti-star-wars">
+<img src="https://i.ibb.co/JvVmwj3/spoti-star-warss.png" alt="spoti-star-wars">
 
 Crec que part d'una frase que diu **Manovich** en el seu llibre ***El software toma el mando*** (2013), una part del *resultado de la hibridación no es tan solo la suma mecánica de las partes existentes previamente*, concorda molt amb l'aplicació. L'actual Spotify és la suma de moltes parts ja existents: música, informàtica, pòdcasts, ràdio, videoclips, lletres de cançons, publicitat...
 
-## ![wii fit plus](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Wii_fit_plus_logo.svg/2560px-Wii_fit_plus_logo.svg.png =125x) Re-descobrint la hibridació: Cas 2 - Wii Fit Plus
+## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Wii_fit_plus_logo.svg/2560px-Wii_fit_plus_logo.svg.png" width="125px"> Re-descobrint la hibridació: Cas 2 - Wii Fit Plus
 
 Wii Fit Plus és un videojoc de la videoconsola Wii, es va llançar l'octubre de 2009 i permet entrenar, divertir-se i competir amb la família des de casa. Gràcies al control de moviment de la videoconsola i, sobretot, al sistema de la Balance Board, que és com una taula/bàscula, pots realitzar més de 60 activitats: jocs molt diversos i entretinguts, exercicis de ioga, tonificació i altres. Wii Fit Plus és una hibridació feta per tal de millorar les carències del seu antecessor Wii Fit, que era el primer que va sortir, però no tenia la Balance Board, contenia menys exercicis i, se centrava, bàsicament, en la correcció de la postura i l'equilibri i no en la pèrdua de calories.
 
 Entrenar sense sortir de casa, girar hula-hops només movent el centre de gravetat del cos o fer una cursa d'obstacles sense moure't de sobre la Balance Board. Pots realitzar més de 60 activitats diferents classificades en ioga, tonificació, aeròbic, equilibri i exercicis plus. En algunes d'aquestes, com les de ioga, tens un entrenador o entrenadora virtual que t'ensenya a fer, pas a pas, la postura i els pots observar frontalment o des de darrere, com en una classe de veritat.
 
-![exercicis aeròbic](https://www.guiasnintendo.com/2a_WII/wii_fit_plus/wii_fit_plus_sp/imagenes/fotos/216.jpg) ![exercicis tonificació](https://www.guiasnintendo.com/2a_WII/wii_fit_plus/wii_fit_plus_sp/imagenes/fotos/217.jpg) ![entrenador virtual](https://i.3djuegos.com/juegos/4327/wii_fit_plus/fotos/set/wii_fit_plus-984384.webp =445x) ![entrenadora virtual](https://i.3djuegos.com/juegos/4327/wii_fit_plus/fotos/set/wii_fit_plus-4331424.webp =445x) 
+<img src="https://www.guiasnintendo.com/2a_WII/wii_fit_plus/wii_fit_plus_sp/imagenes/fotos/216.jpg" width="445px">
+<img src="https://www.guiasnintendo.com/2a_WII/wii_fit_plus/wii_fit_plus_sp/imagenes/fotos/217.jpg" width="445px">
+
+![si](https://www.guiasnintendo.com/2a_WII/wii_fit_plus/wii_fit_plus_sp/imagenes/fotos/217.jpg)
+
+![entrenador virtual](https://i.3djuegos.com/juegos/4327/wii_fit_plus/fotos/set/wii_fit_plus-984384.webp =445x) ![entrenadora virtual](https://i.3djuegos.com/juegos/4327/wii_fit_plus/fotos/set/wii_fit_plus-4331424.webp =445x) 
 
 L'entrenament o entreteniment es pot personalitzar segons el temps disponible o les àrees que es vulguin treballar (esquena, braços, glutis...). Cada activitat i exercici t'indica el temps de duració i, com s'ha dit, segons el temps del qual es disposi es poden seleccionar unes activitats o unes altres i es pot crear i guardar sessions d'exercicis per dur-los a terme més endavant.
 
