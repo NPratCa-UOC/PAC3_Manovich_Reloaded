@@ -47,8 +47,8 @@ Wii Fit Plus és un videojoc de la videoconsola Wii, es va llançar l'octubre de
 
 Entrenar sense sortir de casa, girar hula-hops només movent el centre de gravetat del cos o fer una cursa d'obstacles sense moure't de sobre la Balance Board. Pots realitzar més de 60 activitats diferents classificades en ioga, tonificació, aeròbic, equilibri i exercicis plus. En algunes d'aquestes, com les de ioga, tens un entrenador o entrenadora virtual que t'ensenya a fer, pas a pas, la postura i els pots observar frontalment o des de darrere, com en una classe de veritat.
 
-<img src="/aeròbic.jpg" width="420px"> <img src="/tonificació.jpg" width="420px">
-<img src="/entrenador.png" width="420px"> <img src="/entrenadora.png" width="420px">
+<img src="/aeròbic.jpg" width="400px"> <img src="/tonificació.jpg" width="400px">
+<img src="/entrenador.png" width="400px"> <img src="/entrenadora.png" width="400px">
 
 L'entrenament o entreteniment es pot personalitzar segons el temps disponible o les àrees que es vulguin treballar (esquena, braços, glutis...). Cada activitat i exercici t'indica el temps de duració i, com s'ha dit, segons el temps del qual es disposi es poden seleccionar unes activitats o unes altres i es pot crear i guardar sessions d'exercicis per dur-los a terme més endavant.
 
